@@ -28,29 +28,7 @@ The lab uses a dedicated **NAT Network** with the `10.0.0.0/24` subnet, with Kal
 ---
 
 ## 🏗️ Lab Architecture
-
-```text
-                    Internet
-                       │
-                       ▼
-                ┌─────────────┐
-                │ Host Machine│
-                │   Windows   │
-                └──────┬──────┘
-                       │
-                 Oracle VirtualBox
-                       │
-                ┌──────▼──────┐
-                │ NAT Network │
-                │ 10.0.0.0/24│
-                └──────┬──────┘
-                       │
-                ┌──────▼──────┐
-                │ Kali Linux   │
-                │ 10.0.0.2/24 │
-                │ Security VM  │
-                └──────────────┘
-```
+<img width="1046" height="595" alt="Lab_Architecture" src="https://github.com/user-attachments/assets/fd4be516-dfa9-4090-b6ac-7ad3708c493b" />
 
 ---
 
