@@ -52,7 +52,8 @@ The lab uses a dedicated **NAT Network** with the `10.0.0.0/24` subnet, with Kal
 
 ### Evidence
 
-_Add your 7-Zip installation screenshot here._
+<img width="420" height="268" alt="01-7zip-installed" src="https://github.com/user-attachments/assets/b3742f4b-35ac-4faf-aaca-6c8990929219" />
+
 
 ---
 
@@ -62,7 +63,8 @@ Oracle VirtualBox was installed as the virtualization platform for creating and 
 
 ### Evidence
 
-_Add your VirtualBox installation screenshot here._
+<img width="646" height="507" alt="02-virtualbox-installed" src="https://github.com/user-attachments/assets/8e89ff55-5849-477c-994b-e7d8e4e92735" />
+
 
 ---
 
@@ -79,7 +81,8 @@ Network Type: NAT Network
 
 ### Evidence
 
-_Add your NAT Network configuration screenshot here._
+<img width="1920" height="1080" alt="03-nat-network" src="https://github.com/user-attachments/assets/86b3bb85-e3d4-4279-ae2d-11118f2ea6ec" />
+
 
 ---
 
@@ -89,7 +92,8 @@ Kali Linux was downloaded and imported into Oracle VirtualBox as the security te
 
 ### Evidence
 
-_Add your Kali Linux VM screenshot here._
+<img width="1917" height="1078" alt="04-kali-linux" src="https://github.com/user-attachments/assets/123d3079-0c2c-43a3-86de-3165db4020b4" />
+
 
 ---
 
@@ -106,7 +110,8 @@ Network Name: NatNetwork
 
 ### Evidence
 
-_Add your Kali Linux network settings screenshot here._
+<img width="993" height="648" alt="05-kali-network-settings" src="https://github.com/user-attachments/assets/107ddbd1-5084-44ae-bd32-6df019d8ae80" />
+
 
 ---
 
@@ -122,7 +127,8 @@ DNS: 8.8.8.8
 
 ### Evidence
 
-_Add your Kali Linux IP configuration screenshot here._
+<img width="1920" height="983" alt="06-kali-ip-configuration" src="https://github.com/user-attachments/assets/4ea73af6-e501-48d0-b8a3-80ff03f7d856" />
+
 
 ---
 
@@ -158,38 +164,12 @@ The tests were used to verify the Kali IP configuration, gateway connectivity, I
 
 ### Evidence
 
-_Add your network connectivity screenshot here._
+<img width="1920" height="982" alt="07-internet-connectivity" src="https://github.com/user-attachments/assets/f15cb5d5-ea7a-453d-9352-c26593239b96" />
+
 
 ---
 
-## Step 8: Configure Shared Folder
-
-The host machine's `/downloads` folder was configured as a shared folder for the Kali Linux VM.
-
-This allows files to be exchanged between the host and the virtual machine.
-
-### Evidence
-
-_Add your shared folder configuration screenshot here._
-
----
-
-## Step 9: Enable Clipboard and Drag & Drop
-
-VirtualBox integration features were enabled for the Kali Linux VM.
-
-The following features were enabled:
-
-- Shared Clipboard
-- File Drag and Drop
-
-### Evidence
-
-_Add your clipboard and drag-and-drop screenshot here._
-
----
-
-## Step 10: Create VM Snapshot
+## Step 8: Create VM Snapshot
 
 A clean snapshot of the configured Kali Linux VM was created.
 
@@ -197,7 +177,8 @@ The snapshot provides a baseline recovery point before performing future cyberse
 
 ### Evidence
 
-_Add your Kali Linux snapshot screenshot here._
+<img width="1917" height="1078" alt="08-kali-snapshot" src="https://github.com/user-attachments/assets/5d44fddb-a1d6-45ee-88df-6d219c0add70" />
+
 
 ---
 
